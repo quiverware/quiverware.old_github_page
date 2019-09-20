@@ -17,7 +17,7 @@ title: Quiverware
 email: quiverware@quiverware.com
 description: >- # this means to ignore newlines until "baseurl:"
   Developing Android and iOS applications using Flutter.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/flutter_web" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
